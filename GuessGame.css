@@ -1,0 +1,16 @@
+body {
+    background-color: #97FEED;
+}
+
+div {
+    border: 5px solid white;
+    border-radius: 15px;
+    margin-top: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #0B666A;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
